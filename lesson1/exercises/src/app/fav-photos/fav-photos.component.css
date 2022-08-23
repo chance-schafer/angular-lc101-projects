@@ -1,12 +1,19 @@
 h3 {
    color: brown;
+   text-decoration: underline;
 }
 
 img {
-   width: 15%;
+   width: 40%;
    height: auto;
 }
 
 .photos {
    text-align: center;
+   border-left: 2px dotted black;
+   border-right: 2px dotted black;
+   padding: 0 1rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
 }

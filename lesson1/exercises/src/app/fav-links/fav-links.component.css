@@ -1,0 +1,17 @@
+.links {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+a {
+    color: green;
+}
+
+ul {
+    padding: 0;
+}

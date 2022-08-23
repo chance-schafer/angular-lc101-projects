@@ -1,0 +1,10 @@
+.col-3 {
+    padding: 2rem;
+}
+
+.container {
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
