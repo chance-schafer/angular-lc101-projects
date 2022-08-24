@@ -16,3 +16,11 @@ img {
     display: block;
     margin: auto;
 }
+
+.earnTreat {
+    color: blue;
+}
+
+.iceCream {
+    color: rgb(255, 0, 247);
+}
